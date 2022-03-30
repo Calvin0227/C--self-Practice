@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\Cis-3342 Example\While-exercise-3\bin\Debug\net5.0\While-exercise-3.exe
+C:\Users\Administrator\source\repos\Cis-3342 Example\While-exercise-3\bin\Debug\net5.0\While-exercise-3.deps.json
+C:\Users\Administrator\source\repos\Cis-3342 Example\While-exercise-3\bin\Debug\net5.0\While-exercise-3.runtimeconfig.json
+C:\Users\Administrator\source\repos\Cis-3342 Example\While-exercise-3\bin\Debug\net5.0\While-exercise-3.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Cis-3342 Example\While-exercise-3\bin\Debug\net5.0\While-exercise-3.dll
+C:\Users\Administrator\source\repos\Cis-3342 Example\While-exercise-3\bin\Debug\net5.0\ref\While-exercise-3.dll
+C:\Users\Administrator\source\repos\Cis-3342 Example\While-exercise-3\bin\Debug\net5.0\While-exercise-3.pdb
+C:\Users\Administrator\source\repos\Cis-3342 Example\While-exercise-3\obj\Debug\net5.0\While-exercise-3.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Cis-3342 Example\While-exercise-3\obj\Debug\net5.0\While-exercise-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Cis-3342 Example\While-exercise-3\obj\Debug\net5.0\While-exercise-3.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Cis-3342 Example\While-exercise-3\obj\Debug\net5.0\While-exercise-3.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Cis-3342 Example\While-exercise-3\obj\Debug\net5.0\While-exercise-3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Cis-3342 Example\While-exercise-3\obj\Debug\net5.0\While-exercise-3.dll
+C:\Users\Administrator\source\repos\Cis-3342 Example\While-exercise-3\obj\Debug\net5.0\ref\While-exercise-3.dll
+C:\Users\Administrator\source\repos\Cis-3342 Example\While-exercise-3\obj\Debug\net5.0\While-exercise-3.pdb
+C:\Users\Administrator\source\repos\Cis-3342 Example\While-exercise-3\obj\Debug\net5.0\While-exercise-3.genruntimeconfig.cache

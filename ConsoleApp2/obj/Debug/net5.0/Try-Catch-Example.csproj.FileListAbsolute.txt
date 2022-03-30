@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\Cis-3342 Example\ConsoleApp2\obj\Debug\net5.0\Try-Catch-Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Cis-3342 Example\ConsoleApp2\obj\Debug\net5.0\Try-Catch-Example.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Cis-3342 Example\ConsoleApp2\obj\Debug\net5.0\Try-Catch-Example.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Cis-3342 Example\ConsoleApp2\obj\Debug\net5.0\Try-Catch-Example.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Cis-3342 Example\ConsoleApp2\bin\Debug\net5.0\Try-Catch-Example.exe
+C:\Users\Administrator\source\repos\Cis-3342 Example\ConsoleApp2\bin\Debug\net5.0\Try-Catch-Example.deps.json
+C:\Users\Administrator\source\repos\Cis-3342 Example\ConsoleApp2\bin\Debug\net5.0\Try-Catch-Example.runtimeconfig.json
+C:\Users\Administrator\source\repos\Cis-3342 Example\ConsoleApp2\bin\Debug\net5.0\Try-Catch-Example.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Cis-3342 Example\ConsoleApp2\bin\Debug\net5.0\Try-Catch-Example.dll
+C:\Users\Administrator\source\repos\Cis-3342 Example\ConsoleApp2\bin\Debug\net5.0\ref\Try-Catch-Example.dll
+C:\Users\Administrator\source\repos\Cis-3342 Example\ConsoleApp2\bin\Debug\net5.0\Try-Catch-Example.pdb
+C:\Users\Administrator\source\repos\Cis-3342 Example\ConsoleApp2\obj\Debug\net5.0\Try-Catch-Example.dll
+C:\Users\Administrator\source\repos\Cis-3342 Example\ConsoleApp2\obj\Debug\net5.0\ref\Try-Catch-Example.dll
+C:\Users\Administrator\source\repos\Cis-3342 Example\ConsoleApp2\obj\Debug\net5.0\Try-Catch-Example.pdb
+C:\Users\Administrator\source\repos\Cis-3342 Example\ConsoleApp2\obj\Debug\net5.0\Try-Catch-Example.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Cis-3342 Example\ConsoleApp2\obj\Debug\net5.0\Try-Catch-Example.csproj.AssemblyReference.cache

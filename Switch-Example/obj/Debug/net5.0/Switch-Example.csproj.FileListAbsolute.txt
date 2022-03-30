@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\Cis-3342 Example\Switch-Example\bin\Debug\net5.0\Switch-Example.exe
+C:\Users\Administrator\source\repos\Cis-3342 Example\Switch-Example\bin\Debug\net5.0\Switch-Example.deps.json
+C:\Users\Administrator\source\repos\Cis-3342 Example\Switch-Example\bin\Debug\net5.0\Switch-Example.runtimeconfig.json
+C:\Users\Administrator\source\repos\Cis-3342 Example\Switch-Example\bin\Debug\net5.0\Switch-Example.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Cis-3342 Example\Switch-Example\bin\Debug\net5.0\Switch-Example.dll
+C:\Users\Administrator\source\repos\Cis-3342 Example\Switch-Example\bin\Debug\net5.0\ref\Switch-Example.dll
+C:\Users\Administrator\source\repos\Cis-3342 Example\Switch-Example\bin\Debug\net5.0\Switch-Example.pdb
+C:\Users\Administrator\source\repos\Cis-3342 Example\Switch-Example\obj\Debug\net5.0\Switch-Example.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Cis-3342 Example\Switch-Example\obj\Debug\net5.0\Switch-Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Cis-3342 Example\Switch-Example\obj\Debug\net5.0\Switch-Example.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Cis-3342 Example\Switch-Example\obj\Debug\net5.0\Switch-Example.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Cis-3342 Example\Switch-Example\obj\Debug\net5.0\Switch-Example.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Cis-3342 Example\Switch-Example\obj\Debug\net5.0\Switch-Example.dll
+C:\Users\Administrator\source\repos\Cis-3342 Example\Switch-Example\obj\Debug\net5.0\ref\Switch-Example.dll
+C:\Users\Administrator\source\repos\Cis-3342 Example\Switch-Example\obj\Debug\net5.0\Switch-Example.pdb
+C:\Users\Administrator\source\repos\Cis-3342 Example\Switch-Example\obj\Debug\net5.0\Switch-Example.genruntimeconfig.cache
